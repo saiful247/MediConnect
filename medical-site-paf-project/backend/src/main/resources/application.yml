@@ -11,7 +11,7 @@ spring:
     active: dev
   data:
     mongodb:
-      uri: mongodb+srv://pafAd:abcQ789@clusterpaf.ymf4fst.mongodb.net/?retryWrites=true&w=majority&appName=ClusterPAF
+      uri: mongodb+srv://pAF
       database: ${MONGODB_DB}
   security:
     oauth2:
